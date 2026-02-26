@@ -28,7 +28,7 @@ Este projeto é um jogo de competição por turnos desenvolvido em Python. Ele s
 4. Execute o jogo com o comando:
     python nome_do_arquivo.py
 
-📐 Lógica do Jogo 
+## 📐 Lógica do Jogo 
 O funcionamento da corrida segue critérios lógicos de movimentação:
 
 Casas de Bônus (5, 10 e 15): Ao cair nestas posições, o competidor recebe um impulso extra de +3 casas.
